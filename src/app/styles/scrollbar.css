@@ -1,0 +1,13 @@
+::-webkit-scrollbar {
+  background-color: rgb(252, 5, 120);
+  position: relative;
+  border-radius: 10px;
+  width: 12px;
+
+  transition: all 0.8s;
+  -webkit-transition: all 0.8s;
+}
+::-webkit-scrollbar-thumb {
+  background-color: aliceblue;
+  border-radius: 10px;
+}
